@@ -1,0 +1,6 @@
+/my-project
+├── /netlify
+│   └── /functions
+├── index.html
+├── style.css
+└── script.js
